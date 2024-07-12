@@ -1,0 +1,5 @@
+C:\Users\joshm\Documents\monitor control program\MonitorSeek.exe
+C:\Users\joshm\Documents\monitor control program\MonitorSeek.dll
+C:\Users\joshm\Documents\monitor control program\MonitorSeek.deps.json
+C:\Users\joshm\Documents\monitor control program\MonitorSeek.runtimeconfig.json
+C:\Users\joshm\Documents\monitor control program\MonitorSeek.pdb

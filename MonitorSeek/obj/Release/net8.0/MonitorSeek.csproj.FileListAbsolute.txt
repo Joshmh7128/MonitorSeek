@@ -1,0 +1,14 @@
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\bin\Release\net8.0\MonitorSeek.exe
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\bin\Release\net8.0\MonitorSeek.deps.json
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\bin\Release\net8.0\MonitorSeek.runtimeconfig.json
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\bin\Release\net8.0\MonitorSeek.dll
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\bin\Release\net8.0\MonitorSeek.pdb
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.AssemblyInfoInputs.cache
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.AssemblyInfo.cs
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.csproj.CoreCompileInputs.cache
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.dll
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\refint\MonitorSeek.dll
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.pdb
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\MonitorSeek.genruntimeconfig.cache
+C:\Users\joshm\source\repos\MonitorSeek\MonitorSeek\obj\Release\net8.0\ref\MonitorSeek.dll
